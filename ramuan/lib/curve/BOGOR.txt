@@ -1,4 +1,4 @@
-CREATOR :::: ORANG BOGOR
-By: ACIL
+CREATOR :::: xxx
+xxxx
 OWNER:
-PRANKBOTS
+penyihirs
